@@ -5,7 +5,7 @@ Localizations for Forestry
 
 ### en_US
 
-The en_US localization is not part of this repository but instead part of the main code. Do not add a en_US.properties file.
+The en_US localization is not part of this repository but instead part of the main code. Do not add a en_US.lang file.
 
 ### Encoding
 
@@ -13,7 +13,7 @@ Files must be encoded in ISO 8859-1. UTF-8 will not work. Pull requests, submiss
 
 ### Converting
 
-If you want to convert your localization to ISO 8859-1, use that: http://code.cside.com/3rdpage/us/javaUnicode/converter.html. Just paste translation to box above, click 'Characters to Hexadecimal Codes' and converted text will show up in box below!
+If you want to convert your localization to ISO 8859-1, use that: https://codecside.com/3rdpage/us/javaUnicode/converter.html. Just paste translation to box above, click 'Characters to Hexadecimal Codes' and converted text will show up in box below!
 
 ### Testing your language files
 
