@@ -1,0 +1,147 @@
+
+item.agricraft:seedPotato.name=Potato Seeds
+item.agricraft:seedCarrot.name=Carrot Seeds
+item.agricraft:seedSugarcane.name=Sugarcane Seeds
+item.agricraft:seedDandelion.name=Dandelion Seeds
+item.agricraft:seedPoppy.name=Poppy Seeds
+item.agricraft:seedOrchid.name=Blue Orchid Seeds
+item.agricraft:seedAllium.name=Allium Seeds
+item.agricraft:seedTulipRed.name=Red Tulip Seeds
+item.agricraft:seedTulipOrange.name=Orange Tulip Seeds
+item.agricraft:seedTulipWhite.name=White Tulip Seeds
+item.agricraft:seedTulipPink.name=Pink Tulip Seeds
+item.agricraft:seedDaisy.name=Daisy Seeds
+item.agricraft:seedCactus.name=Cactus Seeds
+item.agricraft:seedShroomRed.name=Red Mushroom Spores
+item.agricraft:seedShroomBrown.name=Brown Mushroom Spores
+item.agricraft:seedNitorWart.name=Nitor Wart Spores
+item.agricraft:seedQuartzanthemum.name=Quartzanthemum Seeds
+
+item.agricraft:seedCinderpearl.name=Cinderpearl Seeds
+item.agricraft:seedShimmerleaf.name=Shimmerleaf Seeds
+item.agricraft:seedVishroom.name=Vishroom Spores
+item.agricraft:seedTaintedRoot.name=Taint Root Seeds
+
+item.agricraft:seedAum.name=Aum Seeds
+item.agricraft:seedCerublossom.name=Cerublossom Seeds
+item.agricraft:seedDesertNova.name=Desert Nova Seeds
+item.agricraft:seedTarmaRoot.name=Tarma Root Seeds
+item.agricraft:seedWakebloom.name=Wakebloom seeds
+
+
+//blocks
+tile.agricraft:crops.name=Crop Sticks
+tile.agricraft:seedAnalyzer.name=Seed Analyzer
+tile.agricraft:waterPad.name=Water Pad
+tile.agricraft:waterPadFull.name=Water Pad
+tile.agricraft:waterTank.0.name=Wooden Water Tank
+tile.agricraft:waterTank.1.name=Iron Water Tank
+tile.agricraft:waterChannel.0.name=Wooden Irrigation Channel
+tile.agricraft:waterChannelFull.0.name=Wooden Irrigation Channel
+tile.agricraft:waterChannel.1.name=Iron Irrigation Pipe
+tile.agricraft:channelValve.0.name=Wooden Channel Valve
+tile.agricraft:channelValve.1.name=Iron Pipe Valve
+tile.agricraft:sprinkler.name=Sprinkler
+tile.agricraft:seedStorage.0.name=Seed Storage
+tile.agricraft:seedStorageController.0.name=Seed Storage Controller
+tile.agricraft:fence.0.name=Fence
+tile.agricraft:fenceGate.0.name=Fence Gate
+tile.agricraft:grate.0.name=Wooden Grate
+tile.agricraft:peripheral.name=Computer Controlled Seed Analyzer
+
+tile.agricraft:cropPotato.name=Potato
+tile.agricraft:cropCarrot.name=Carrot
+tile.agricraft:cropSugarcane.name=Sugarcane
+tile.agricraft:cropMelon.name=Meloun
+tile.agricraft:cropPumpkin.name=Dýně
+tile.agricraft:cropDandelion.name=Dandelion
+tile.agricraft:cropPoppy.name=Poppy
+tile.agricraft:cropOrchid.name=Orchidej
+tile.agricraft:cropAllium.name=Alium
+tile.agricraft:cropTulipRed.name=Red Tulip
+tile.agricraft:cropTulipOrange.name=Orange Tulip
+tile.agricraft:cropTulipWhite.name=White Tulip
+tile.agricraft:cropTulipPink.name=Pink Tulip
+tile.agricraft:cropDaisy.name=Sedmikráska
+tile.agricraft:cropCactus.name=Kaktus
+tile.agricraft:cropShroomRed.name=Červená Houba
+tile.agricraft:cropShroomBrown.name=Hnědá Houba
+tile.agricraft:cropQuartzanthemum.name=Křezamtéma
+
+tile.agricraft:cropEmeryllis.name=Emerylis
+tile.agricraft:cropRedstodendron.name=Redstodendron
+tile.agricraft:cropPetinia.name=Petinia
+tile.agricraft:cropNiccissus.name=Niccissus
+tile.agricraft:cropPlatiolus.name=Platiolus
+tile.agricraft:cropOsmonium.name=Osmonium
+
+//entities
+entity.AgriCraft.villagerFarmer.name=Villager
+entity.AgriCraft.leash.name=Leash Knot
+
+//gui
+agricraft_gui.seedAnalyzer=Seed Analyzer
+agricraft_gui.peripheral=Computer Controlled Seed Analyzer
+
+//tooltips
+agricraft_tooltip.unidentified=Neidentifikované
+agricraft_tooltip.seed=Seed
+agricraft_tooltip.growth=Růst
+agricraft_tooltip.gain=Výnos
+agricraft_tooltip.strength=Síla
+agricraft_tooltip.analyzed=Toto semínko ještě nebylo analyzováno
+agricraft_tooltip.fertile=Rostlina je plodná a může růst
+agricraft_tooltip.notFertile=This plant can not grow here
+agricraft_tooltip.discoveredSeeds=Objevená semínka
+agricraft_tooltip.material=Material
+agricraft_tooltip.waterLevel=Water level
+agricraft_tooltip.cropWithPlant=This crop has a plant
+agricraft_tooltip.crossCrop=This is a cross-crop
+agricraft_tooltip.weeds=Weeds have sprouted here
+agricraft_tooltip.cropWithoutPlant=This crop doesn't have a plant on it
+agricraft_tooltip.notCrop=This is not a crop
+agricraft_tooltip.trowel=Use this to move plants from one crop to another
+agricraft_tooltip.magnifyingGlass=Use this to inspect crops
+agricraft_tooltip.handRake=Use this to remove weeds from crops
+agricraft_tooltip.closed=Closed
+agricraft_tooltip.open=Open
+agricraft_tooltip.state=State
+agricraft_tooltip.empty=No seed planted
+agricraft_tooltip.waterPadDry=Dig with a shovel in farmland to create a little pit
+agricraft_tooltip.waterPadWet=then use a bucket of water to fill it up
+agricraft_tooltip.growthStage=Growthstage
+agricraft_tooltip.mature=Mature
+agricraft_tooltip.valve=Toggled with a redstone signal
+agricraft_tooltip.grate=Right click with vines to apply vines
+agricraft_tooltip.clipper1=Right click on crops to obtain clippings
+agricraft_tooltip.clipper2=Clippings can be planted on other crops
+agricraft_tooltip.clipper3=Success of planting is based on strength
+agricraft_tooltip.analyzer=Specimen
+agricraft_tooltip.storage=Locked Seed
+agricraft_tooltip.none=none
+
+//descriptions
+description.villager.profession.agricraft.villager=Agrárník
+
+//misc
+agricraft_arg.direction=direction
+agricraft_arg.direction.optional=(optional) direction
+
+// nei GUI
+agricraft_nei.mutation.title=Crop Mutation
+agricraft_nei.cropProduct.title=Crop Produce
+agricraft_nei.soil=Soil
+agricraft_nei.needs=Needs
+agricraft_nei.below=Below
+agricraft_nei.nearby=Nearby
+
+//journal entries
+//---------------
+//headers
+
+agricraft_journal.information=Information
+agricraft_journal.tier=Tier
+agricraft_journal.brightness=Brightness range
+agricraft_journal.fruits=Fruits
+agricraft_journal.growthStages=Growth Stages
+agricraft_journal.mutations=Objevené Mutace
